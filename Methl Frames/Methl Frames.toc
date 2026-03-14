@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Methl Frames
+## Notes: Curved player health and power bars around the screen center.
+## Author: Codex
+## Version: 1.0.0
+## SavedVariablesPerCharacter: MethlFramesDB
+
+MethlFrames.lua
